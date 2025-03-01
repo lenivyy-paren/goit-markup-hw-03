@@ -187,8 +187,6 @@ a {
 
 .section-two-item {
     width: calc((100% - 72px) / 4);
-    padding-top: 120px;
-    padding-bottom: 120px;
 }
 
 .section-two-logo {
