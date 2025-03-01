@@ -234,6 +234,11 @@ a {
 .section-team-item {
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
+    /* border-radius: 0px 0px 4px 4px; */
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px ;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius:4px;
 }
 
 .container-section {
@@ -248,7 +253,6 @@ a {
     letter-spacing: 0.02em;
     margin-bottom: 8px;
     color: #2E2F42;
-    border-radius: 0px 0px 4px 4px;
 }
 
 .section-team-p {
