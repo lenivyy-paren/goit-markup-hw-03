@@ -34,9 +34,10 @@ a {
 
 /* header start */
 .header {
-    /* border-bottom: 1px solid var(#E7E9FC); */
+    border-bottom: 1px solid #E7E9FC;
     color: #2e2f42;
     background: #FFFFFF;
+
 }
 
 .header-container {
@@ -160,6 +161,12 @@ a {
 
 
 /* section 2 start */
+
+.section-two {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .h-none {
     position: absolute;
     width: 1px;
@@ -232,7 +239,6 @@ a {
 .container-section {
     padding: 32px 0;
     text-align: center;
-    border-radius: 0px 0px 4px 4px;
 }
 
 .section-team-item-h{
@@ -242,6 +248,7 @@ a {
     letter-spacing: 0.02em;
     margin-bottom: 8px;
     color: #2E2F42;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .section-team-p {
